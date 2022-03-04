@@ -2,7 +2,8 @@ public class test {
     public static void main (String[]args){
         int a = 1;
         int b = 3;
-        int sum = a+b;
+        int c = 4;
+        int sum = a+b+c;
         System.out.println(sum);
     }
 }
